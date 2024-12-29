@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\view model\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\view model\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\models\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\models\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\views\\order\\choice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\views\\order\\choice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\view model\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\view model\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\models\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\models\\entites\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/market/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\models\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\models\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\models\\entites\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\models\\entites\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|c:\\users\\el-mester\\source\\repos\\ecomarce\\ecomarce\\migrations\\20241222154018_frist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F196121D-3608-46B8-9488-EC7D3348CA67}|Ecomarce\\Ecomarce.csproj|solutionrelative:ecomarce\\migrations\\20241222154018_frist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "orderController.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Controllers\\orderController.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Controllers\\orderController.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Controllers\\orderController.cs",
+              "RelativeToolTip": "Ecomarce\\Controllers\\orderController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:33:17.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\order\\ViewOrders.cshtml",
+              "RelativeDocumentMoniker": "Ecomarce\\Views\\order\\ViewOrders.cshtml",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\order\\ViewOrders.cshtml",
+              "RelativeToolTip": "Ecomarce\\Views\\order\\ViewOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T15:41:00.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orderDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\View Model\\orderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\View Model\\orderDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\View Model\\orderDetailsViewModel.cs",
+              "RelativeToolTip": "Ecomarce\\View Model\\orderDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:16:26.869Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\Entites\\Order.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Models\\Entites\\Order.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\Entites\\Order.cs",
+              "RelativeToolTip": "Ecomarce\\Models\\Entites\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:48:24.44Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecomarce\\Views\\product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\product\\Index.cshtml",
+              "RelativeToolTip": "Ecomarce\\Views\\product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T11:23:28.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\View Model\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\View Model\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\View Model\\OrderViewModel.cs",
+              "RelativeToolTip": "Ecomarce\\View Model\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:46:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "choice.cshtml",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\order\\choice.cshtml",
+              "RelativeDocumentMoniker": "Ecomarce\\Views\\order\\choice.cshtml",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\order\\choice.cshtml",
+              "RelativeToolTip": "Ecomarce\\Views\\order\\choice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T13:27:41.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\Entites\\Customer.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Models\\Entites\\Customer.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\Entites\\Customer.cs",
+              "RelativeToolTip": "Ecomarce\\Models\\Entites\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:44:24.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productController.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Controllers\\productController.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Controllers\\productController.cs",
+              "RelativeToolTip": "Ecomarce\\Controllers\\productController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwE4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:20:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Program.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Program.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Program.cs",
+              "RelativeToolTip": "Ecomarce\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:17:09.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-22T15:45:22.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241222154018_Frist.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Migrations\\20241222154018_Frist.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Migrations\\20241222154018_Frist.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Migrations\\20241222154018_Frist.cs",
+              "RelativeToolTip": "Ecomarce\\Migrations\\20241222154018_Frist.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwE0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:40:19.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Ecomarce\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA3wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:05:12.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/market/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/market/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-21T15:16:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\order\\create.cshtml",
+              "RelativeDocumentMoniker": "Ecomarce\\Views\\order\\create.cshtml",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\order\\create.cshtml",
+              "RelativeToolTip": "Ecomarce\\Views\\order\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T13:31:54.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "add.cshtml",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\product\\add.cshtml",
+              "RelativeDocumentMoniker": "Ecomarce\\Views\\product\\add.cshtml",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\product\\add.cshtml",
+              "RelativeToolTip": "Ecomarce\\Views\\product\\add.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T11:43:38.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ecomarce\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ecomarce\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCAAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T11:21:48.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Models\\Entites\\Product.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\Entites\\Product.cs",
+              "RelativeToolTip": "Ecomarce\\Models\\Entites\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:42:06.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\product\\update.cshtml",
+              "RelativeDocumentMoniker": "Ecomarce\\Views\\product\\update.cshtml",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\product\\update.cshtml",
+              "RelativeToolTip": "Ecomarce\\Views\\product\\update.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T11:59:17.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\product\\delete.cshtml",
+              "RelativeDocumentMoniker": "Ecomarce\\Views\\product\\delete.cshtml",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Views\\product\\delete.cshtml",
+              "RelativeToolTip": "Ecomarce\\Views\\product\\delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:11:45.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecomarce\\appsettings.json",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\appsettings.json",
+              "RelativeToolTip": "Ecomarce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T09:14:31.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\Entites\\OrderItems.cs",
+              "RelativeDocumentMoniker": "Ecomarce\\Models\\Entites\\OrderItems.cs",
+              "ToolTip": "C:\\Users\\El-Mester\\source\\repos\\Ecomarce\\Ecomarce\\Models\\Entites\\OrderItems.cs",
+              "RelativeToolTip": "Ecomarce\\Models\\Entites\\OrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:09:18.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿@model List<Ecomarce.Models.Entites.Order>;
+<h1>all Orders</h1>
+@if (Model == null)
+{
+
+	<h1>not found</h1>
+}
+else
+{
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>OrderDate</th>
+				<th>TotalAmount</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var p in Model)
+			{
+				<tr>
+					<td>@p.Customer.Name</td>
+					<td>@p.OrderDate</td>
+					<td>@p.TotalAmount</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}
+
